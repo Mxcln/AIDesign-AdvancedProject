@@ -1,0 +1,5 @@
+openai
+tiktoken
+langchain
+langchain_community
+langchain-openai
